@@ -1,4 +1,4 @@
-# Park-Bark
+# P&B PArking
 Data science project for analysing the performance of a Hungarian parking company
 
 The result is an interactive chart where anyone can browse through performance related data.
